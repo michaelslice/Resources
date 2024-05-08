@@ -24,9 +24,11 @@ Resume Action Words: https://www.engineering.cornell.edu/sites/default/files/use
 
 # Finance Sources
 Option Calculator: https://www.optionsprofitcalculator.com/ <br>
+NYSE Fix Protocol: https://www.nyse.com/publicdocs/NYSE_Pillar_Gateway_FIX_Protocol_Specification.pdf <br>
 
 # C++
 
+C++ Developer Roadmap: https://roadmap.sh/cpp <br>
 C++ Build Process: https://faculty.cs.niu.edu/~mcmahon/CS241/Notes/build.html <br>
 Design Patterns: https://refactoring.guru/design-patterns/cpp <br>
 International Organization for Standardization CPP: https://isocpp.org/ <br>
@@ -34,6 +36,11 @@ International Organization for Standardization CPP: https://isocpp.org/ <br>
 # Math 
 
 Calculus 1: https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx <br>
+
+# SQL 
+
+Learn SQL Source: https://sqlbolt.com/ <br>
+Learn SQL: https://learnxinyminutes.com/docs/sql/ <br>
 
 # Web Development
 
