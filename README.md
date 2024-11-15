@@ -13,7 +13,12 @@
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [Udemy](https://www.udemy.com/)
 - [Coursera](https://www.coursera.org/professional-certificates/intuit-bookkeeping?utm_medium=sem&utm_source=bg&utm_campaign=B2C_NAMER_intuit-bookkeeping_intuit_FTCOF_professional-certificates_country-US&campaignid=415524878&adgroupid=1210562780768291&device=c&keyword=financial%20accounting%20course&matchtype=b&network=o&devicemodel=&adposition=&creativeid=&hide_mobile_promo&msclkid=911bb3c1feb816383dc7d7c73b3a24b7&utm_term=financial%20accounting%20course&utm_content=Intuit%2FCoursera)
-  
+### System Design
+- [8 System Design Concepts Every Engineer Must Know Before the Interview](https://www.designgurus.io/blog/system-design-interview-fundamentals)
+- [Learn how to design systems at scale and prepare for system design interviews](https://github.com/karanpratapsingh/system-design)
+- [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources)
+- [System Design Delivery Framework](https://www.hellointerview.com/learn/system-design/in-a-hurry/delivery)
+- [ Roadmap and Resource Compilation for System Design](https://github.com/systemdesignfightclub/SDFC)
 ### C++
 
 - [C++ Developer Roadmap](https://roadmap.sh/cpp)
